@@ -69,6 +69,5 @@ The **Active Alert System** is a desktop application designed to detect various 
 
 |  |  |
 |--------------|--------------|
-| ![Screenshot 2](img/img2.png) |
-| ![Screenshot 3](img/img3.png) | ![Screenshot 4](img/img4.png) |
-| ![Screenshot 5](img/img5.png) | 
+| ![Screenshot 2](img/img2.png) || ![Screenshot 3](img/img3.png) | ![Screenshot 4](img/img4.png) |
+
