@@ -1,0 +1,10 @@
+.env
+# Ignore token.pickle file
+token.pickle
+# Ignore credentials file
+credentials.py
+# Ignore screenshot folder
+screenshots/
+thumbnails/
+
+req.txt
